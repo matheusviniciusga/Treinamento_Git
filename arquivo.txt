@@ -1,1 +1,1 @@
-oi jdhdhd
+Exempo de criação e edição do arquivo pelo GitBash, usando o comando "nano <nome_do_arquivo>"
